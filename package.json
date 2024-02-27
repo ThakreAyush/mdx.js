@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mdx-js/loader": "^3.0.1",
+    "@mdx-js/react": "^3.0.1"
+  }
+}
