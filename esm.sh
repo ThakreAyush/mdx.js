@@ -24,3 +24,10 @@ console.log(
     <Post />
   </MDXProvider>
 )
+
+
+console.log(
+  <MDXProvider components={components}>
+    <Post />
+  </MDXProvider>
+)
